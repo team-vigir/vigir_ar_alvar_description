@@ -65,7 +65,7 @@
     </gazebo>
     
     <gazebo reference="${name}_background_link">
-      <material>White</material>
+      <material>Gazebo/White</material>
       <!--
       <turnGravityOff>false</turnGravityOff>
       <static>false</static>
